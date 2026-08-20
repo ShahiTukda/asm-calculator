@@ -1,4 +1,4 @@
-intel_syntax noprefix
+.intel_syntax noprefix
 .global itoa
 itoa:
 push rbx
